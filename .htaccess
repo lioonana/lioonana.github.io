@@ -1,0 +1,3 @@
+
+ErrorDocument 404 https://lioonana.github.io/
+ErrorDocument 500 https://lioonana.github.io/

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /sitemap.xml
+Allow: /urllist.html
+Allow: /urllist.txt
+
+Sitemap: https://lioonana.github.io/sitemap.xml
