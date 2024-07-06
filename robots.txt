@@ -1,10 +1,6 @@
-User-Agent: *
-Disallow: 
+User-agent: *
+Allow: /sitemap.xml
+Allow: /urllist.html
+Allow: /urllist.txt
 
 Sitemap: https://lioonana.github.io/sitemap.xml
-Sitemap: https://lioonana.github.io/sitemap.html
-Sitemap: https://lioonana.github.io/sitemap-1.html
-Sitemap: https://lioonana.github.io/sitemap-2.html
-Sitemap: https://lioonana.github.io/sitemap-3.html
-Sitemap: https://lioonana.github.io/sitemap-4.html
-Sitemap: https://lioonana.github.io/sitemap-5.html
